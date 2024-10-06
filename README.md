@@ -1,4 +1,4 @@
-# Get good at git
+# Get good at git and other items
 ##### Just want to get better at git so let's git good! Just some commmands here and there for my own reference.
 
 Set git username and email for all repos\
@@ -149,3 +149,10 @@ N next word in backwards direction\
 Ctrl O go back where you came from\
 Ctrl I go forward where you came from\
 % to find a matching ), ], }
+
+MS Word
+
+|              Cmd | Description            |
+| ---------------: | ---------------------- |
+| ctrl + shift + 8 | show non printing char |
+|       shift + F3 | toggle caps            |
