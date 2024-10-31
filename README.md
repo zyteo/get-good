@@ -156,3 +156,10 @@ MS Word
 | ---------------: | ---------------------- |
 | ctrl + shift + 8 | show non printing char |
 |       shift + F3 | toggle caps            |
+|      ctrl + d, alt + k, enter | strikethrough     |
+
+MS Excel
+
+|              Cmd | Description            |
+| ---------------: | ---------------------- |
+| ctrl + 5 | strikethrough |
