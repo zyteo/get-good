@@ -163,3 +163,4 @@ MS Excel
 |              Cmd | Description            |
 | ---------------: | ---------------------- |
 | ctrl + 5 | strikethrough |
+| ctrl + pgdown / pgup | toggle between worksheets |
